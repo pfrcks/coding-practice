@@ -1,4 +1,4 @@
-#Items to be covered for Intern Preparation
+# Items to be covered for Intern Preparation
 
 ### Pointers from [Ace the Coding Interview, Everytime](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc):
 
